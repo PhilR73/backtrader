@@ -1,0 +1,6 @@
+pip-chill
+matplotlib
+ta-lib      # set TA_INCLUDE_PATH=%TA%\c\include and TA_LIBRARY_PATH=%TA%\c\lib first
+jupyter
+plotly
+pytest
